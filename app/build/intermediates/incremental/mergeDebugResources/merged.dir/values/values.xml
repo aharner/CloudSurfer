@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="level_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="MENU_FIRST">Quit the Game</string>
+    <string name="MENU_START">Start New Gamma</string>
+    <string name="app_name">Cloud Surfer</string>
+    <string name="hello">Hello World, cloudsurfer!</string>
+    <string name="level_prompt">Choose a level</string>
+    <string name="startGame">Start a New Game</string>
+    <string name="tutorial1">To Play, you must first press the Load Levels button, then press play game. Otherwise it will crash. To exit the game while playing, touch about 50 pixels from the bottom of the screen, and move your finger down to trigger the correct exit of the game. Thanks for understanding while I develop this!</string>
+    <string name="warning">Robots are risingss</string>
+    <string name="x">x</string>
+</resources>

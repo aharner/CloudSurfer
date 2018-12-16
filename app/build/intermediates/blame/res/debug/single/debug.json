@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_game.xml.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\layout\\game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fire2.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\fire2.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_active.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\active.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_aeh.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\aeh.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_picklevel.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\picklevel.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clouddot.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\clouddot.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flowerbkgd.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\flowerbkgd.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button2.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\button2.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clouddense.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\clouddense.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloudlogo.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\cloudlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloudsurferlogo.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\cloudsurferlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fire1.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\fire1.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clouddraw.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\clouddraw.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_youwon.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\youwon.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloudbigger.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\cloudbigger.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pushplay.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-ldpi\\pushplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cloudsurfer1.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\cloudsurfer1.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button1.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\button1.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pushplay.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-hdpi\\pushplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconcopy.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-hdpi\\iconcopy.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pushplay.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\pushplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tutorial.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-mdpi\\tutorial.png"
+    },
+    {
+        "merged": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

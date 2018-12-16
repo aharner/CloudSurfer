@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "13,6,5,3,2,12,7,8,4,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "830,276,221,115,55,774,329,384,165,728",
+                        "endLines": "22,6,5,3,2,12,7,8,4,9",
+                        "endColumns": "19,52,54,49,59,55,54,337,55,31",
+                        "endOffsets": "1092,324,271,160,110,825,379,717,216,755"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,322,375,430,480,540,596,651,989,1045",
+                        "endLines": "11,12,13,14,15,16,17,18,19,20",
+                        "endColumns": "19,52,54,49,59,55,54,337,55,31",
+                        "endOffsets": "317,370,425,475,535,591,646,984,1040,1072"
+                    }
+                }
+            ]
+        }
+    ]
+}
