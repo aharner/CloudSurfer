@@ -1,69 +1,69 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:3:7-38
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:3:7-38
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:5:7-33
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:5:7-33
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:4:7-31
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:4:7-31
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:8:2-80
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:8:2-80
 	android:name
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:8:19-61
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:8:19-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:9:2-92
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:9:2-92
 	android:name
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:9:19-73
-uses-sdk
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-	android:targetSdkVersion
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:6-44
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:11:16-41
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:9:19-73
 application
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:13:5-24:19
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:11:5-22:19
 	android:label
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:13:48-80
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:11:48-80
 	android:icon
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:13:18-47
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:11:18-47
 activity#aharner11.cloudsurfer.cloudsurfer
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:14:9-22:20
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:screenOrientation
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:16:19-55
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:14:19-55
 	android:label
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:15:19-51
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:13:19-51
 	android:name
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:14:19-46
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:17:13-21:29
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:12:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\Andy\AndroidStudioProjects\CloudSurfer\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/melissagaw/Projects/CloudSurfer/app/src/main/AndroidManifest.xml

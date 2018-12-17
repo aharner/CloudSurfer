@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "/Users/melissagaw/Projects/CloudSurfer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Andy\\AndroidStudioProjects\\CloudSurfer\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "/Users/melissagaw/Projects/CloudSurfer/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "13,6,5,3,2,12,7,8,4,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
